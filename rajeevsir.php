@@ -1,4 +1,4 @@
 <?php
-echo "Its working fine now";
+print "Its working fine now";
 ?>
 
